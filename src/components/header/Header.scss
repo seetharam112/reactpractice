@@ -1,0 +1,41 @@
+.header_wrapper {
+    display: flex;
+    justify-content: space-between;
+    background-color: darkolivegreen;
+}
+
+.logo {
+    width: 150px;
+    height: 150px;
+}
+
+.logo img {
+    width: 100%;
+}
+
+.nav_bar {
+    display: flex;
+    align-items: center;
+}
+
+.nav_bar ul {
+    display: flex;
+    margin-right: 50px;
+}
+
+.nav_bar ul li {
+    list-style-type: none;
+    padding: 10px;
+    color: #fff;
+}
+
+.cart {
+    width: 50px;
+    height: 50px;
+    color: #fff;
+    margin-right: 50px;
+}
+
+.cart img {
+    width: 100%;
+}
